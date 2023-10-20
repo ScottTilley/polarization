@@ -11,7 +11,7 @@ Daniel Estévez in his analysis provides a concise description of the pheonenom 
 
 ![USA 149  26356 2000-024A _2023-10-20T18:33:23_lin_pol_zoom](https://github.com/ScottTilley/polarization/assets/64234963/7900ce90-ecc5-44d4-a4fd-dc870ed82244)
 
-The linear polarization plot shows that the polarizatrion angle is changing in a sinusoidal manner.  This could be because we are viewing USA 149 from an angle and the viewing geometry doesn't allow us to see extreme changes in the polarization angle.  
+The linear polarization plot shows that the polarization angle is changing in a sinusoidal manner.  This could be because we are viewing USA 149 from an angle and the viewing geometry doesn't allow us to see extreme changes in the polarization angle.  
 
 See Daniel's discussion on this topic when he observed Chang'e 5 here:
 https://destevez.net/2020/12/change-5-polarization-in-the-ata-observations/
