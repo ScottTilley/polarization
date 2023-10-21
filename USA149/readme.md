@@ -20,3 +20,20 @@ The period being twice that expected is similar to the light curve of a rotating
 
 Here's a discussion on this principle: 
 https://www.satobs.org/tumble/rotandfp.html
+
+An FFT of the data produced the following showing periods in Q, U and V:
+Peaks in FFT of Stokes Q (Periods):
+Period: 5.083333333333333 seconds
+Period: 2.5416666666666665 seconds
+Peaks in FFT of Stokes U (Periods):
+Period: 10.166666666666666 seconds
+Period: 5.083333333333333 seconds
+Period: 3.388888888888889 seconds
+Period: 2.5416666666666665 seconds
+Peaks in FFT of Stokes V (Periods):
+Period: 10.166666666666666 seconds
+Period: 5.083333333333333 seconds
+Period: 2.5416666666666665 seconds
+
+![USA 149  26356 2000-024A _2023-10-20T18:33:23_stokes_fft](https://github.com/ScottTilley/polarization/assets/64234963/50157664-f22a-47d6-aced-87d8f4ba9b0d)
+
